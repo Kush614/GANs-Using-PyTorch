@@ -1,4 +1,4 @@
-# GANs-Using-PyTorch
+# Image Generation using Pytorch
 
 A generative adversarial network (GAN) is a class of machine learning frameworks conceived in 2014 by Ian Goodfellow and his colleagues. Two neural networks (Generator and Discriminator) compete with each other like in a game. This technique learns to generate new data using the same statistics as that of the training set, given a training set.
 I have train a GAN to generate images of cats' faces. I haved used the Cats Faces Dataset which consists of more than 15,700 cats images. Since generative modeling is an unsupervised learning method, hence there are no labels on the images.
